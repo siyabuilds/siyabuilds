@@ -27,7 +27,7 @@ jobs:
       - name: Run commit count updater
         run: node ./scripts/updateCommits.js
         env:
-          GH_USERNAME: markuptitan
+          GH_USERNAME: siyabuilds
           GH_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
