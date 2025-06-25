@@ -6,7 +6,7 @@ const token = process.env.GH_TOKEN;
 const headers = { Authorization: `token ${token}` };
 
 const excludeRepos = [
-  "markuptitan",
+  "siyabuilds",
   "project-1",
   "acn-syllabus",
   "bbd-immersion-day-booking",
