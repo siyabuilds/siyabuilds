@@ -7,21 +7,23 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%2B+Next.js+Specialist;TypeScript+Fanatic;Clean+Code+Advocate;Umuzi+Recruit" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%2B+Next.js+Specialist;TypeScript+Enthusiast;Building+with+passion" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **full-stack developer** passionate about crafting scalable, fast, and elegant web solutions. Whether building frontend interfaces or architecting backend systems, I aim to write maintainable code that solves real-world problems.
+I'm a **full-stack developer** passionate about crafting scalable, fast, and elegant web solutions. Whether building frontend interfaces or architecting backend systems, I strive for maintainable code and awesome user experiences.
 
 ---
 
 ## 🧠 Recent Projects
 
-- 🔤 [**Word Unscrambler**](https://word-unscrambler.markuptitan.site) — Built with **Next.js + TypeScript**, optimized for performance and usability.
-- ♻️ Focused on building **reusable components**, improving **core web vitals**, and simplifying development workflows.
+- 🌱 [**Carbon Footprint Tracker**](https://carbon-footprint.siyabuilds.tech) — Currently in development! Building a tool to help track and reduce your carbon footprint. Built with **Next.js, TypeScript, and Vite** for blazing-fast performance and smooth UX.
+- ♻️ Focused on building **reusable components**, improving **core web vitals**, and simplifying dev workflows.
+
+Are you practicing any sustainability habits or interested in reducing your carbon footprint? 🍃
 
 ---
 
@@ -29,16 +31,18 @@ I'm a **full-stack developer** passionate about crafting scalable, fast, and ele
 
 > *"Code should be easy to delete, not just easy to write."*
 
-I believe in clean architecture, thoughtful UI/UX, and constant iteration. I'm always exploring tools and techniques to ship better, faster, and smarter.
+I believe in clean architecture, thoughtful UI/UX, and constant iteration. Always experimenting with tools and techniques to ship better, faster, and smarter.
 
 ---
 
 ## 🔍 Currently Learning & Improving
 
-- ⚛️ Deep diving into **Next.js performance optimization**
+- ⚛️ Deep diving into **React and performance optimization**
 - 🧱 Designing scalable **Node.js** + **Express** backends
 - 🐳 Deploying with **Docker** like a DevOps pro
 - 🎨 Crafting beautiful UIs using **TailwindCSS** utility patterns
+
+Working on anything cool lately? Let’s chat tech! 🚀
 
 ---
 
@@ -53,6 +57,7 @@ I believe in clean architecture, thoughtful UI/UX, and constant iteration. I'm a
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
 </p>
 
 ### 🔧 Dev Tools & Workflow
@@ -84,11 +89,11 @@ I believe in clean architecture, thoughtful UI/UX, and constant iteration. I'm a
   <a href="https://github.com/siyabuilds" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/bytedojo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:siyabonga.lukhele@umuzi.org" target="_blank"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://samsonlukhele.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%2347A3F3.svg?style=for-the-badge&logo=safari&logoColor=white"></a>
+  <a href="https://siyabuilds.tech" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%2347A3F3.svg?style=for-the-badge&logo=safari&logoColor=white"></a>
 </p>
 
 ---
 
-> 🔗 Check out my work and journey at [**samsonlukhele.me**](https://samsonlukhele.me)
+> 🔗 Check out my work and journey at [**siyabuilds.tech**](https://siyabuilds.tech)
 
 ---
