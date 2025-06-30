@@ -20,7 +20,7 @@ I'm a **full-stack developer** passionate about crafting scalable, fast, and ele
 
 ## 🧠 Recent Projects
 
-- 🌱 [**Carbon Footprint Tracker**](https://carbon-footprint.siyabuilds.tech) — Currently in development! Building a tool to help track and reduce your carbon footprint. Built with **Next.js, TypeScript, and Vite** for blazing-fast performance and smooth UX.
+- 🌱 [**Carbon Footprint Tracker**](https://carbon-footprint.siyabuilds.tech) — Currently in development! Building a tool to help track and reduce your carbon footprint. Built with **Vite, HTML&CSS and JavaScript(ES6)** for blazing-fast performance and smooth UX.
 - ♻️ Focused on building **reusable components**, improving **core web vitals**, and simplifying dev workflows.
 
 Are you practicing any sustainability habits or interested in reducing your carbon footprint? 🍃
