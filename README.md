@@ -4,6 +4,8 @@
   <img src="https://img.shields.io/badge/COMMITS-577-blue?style=flat-square&color=blue" height="25"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/siyabuilds?label=FOLLOWERS&style=flat-square&color=green" height="25"/>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=siyabuilds&label=PROFILE+VIEWS&style=flat-square&color=blue" height="25"/>
 </h1>
 
 <p align="center">
@@ -32,6 +34,11 @@ Are you practicing any sustainability habits or interested in reducing your carb
 > *"Code should be easy to delete, not just easy to write."*
 
 I believe in clean architecture, thoughtful UI/UX, and constant iteration. Always experimenting with tools and techniques to ship better, faster, and smarter.
+
+## 💬 Quote of the Day
+
+<!--START_QUOTE-->
+<!--END_QUOTE-->
 
 ---
 
