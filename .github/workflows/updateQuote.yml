@@ -1,8 +1,8 @@
-name: 🔁 Update README with Commit Count
+name: 💬 Update README with Quote
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Every 12 hours
+    - cron: "0 0 * * *" # Every day at midnight
   workflow_dispatch:
 
 jobs:
@@ -25,11 +25,8 @@ jobs:
         run: npm install
         working-directory: ./scripts
 
-      - name: Run commit count updater
-        run: node ./scripts/updateCommits.js
-        env:
-          GH_USERNAME: siyabuilds
-          GH_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+      - name: Run quote updater
+        run: node ./scripts/updateQuote.js
 
       - name: Commit and Push if changed
         run: |
@@ -37,7 +34,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Auto-update commit badge"
+            git commit -m "Auto-update quote of the day"
             git push
           else
             echo "No changes to commit."

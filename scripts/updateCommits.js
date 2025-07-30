@@ -1,5 +1,5 @@
 const fs = require("fs");
-const axios = require("axios");
+const fetch = require("node-fetch");
 
 const username = process.env.GH_USERNAME;
 const token = process.env.GH_TOKEN;
@@ -13,29 +13,30 @@ const excludeRepos = [
 ];
 
 async function getCommitCount() {
-  const repos = await axios.get(
-  `https://api.github.com/users/${username}/repos?per_page=100`,
-  { headers }
-);
-
+  const reposResponse = await fetch(
+    `https://api.github.com/users/${username}/repos?per_page=100`,
+    { headers }
+  );
+  const repos = await reposResponse.json();
 
   let totalCommits = 0;
 
-  for (const repo of repos.data) {
+  for (const repo of repos) {
     if (excludeRepos.includes(repo.name.toLowerCase())) continue;
 
-    const commits = await axios.get(
+    const commitsResponse = await fetch(
       `https://api.github.com/repos/${username}/${repo.name}/commits?per_page=1`,
       { headers }
     );
 
-    const linkHeader = commits.headers.link;
+    const linkHeader = commitsResponse.headers.get("link");
     if (linkHeader && linkHeader.includes('rel="last"')) {
       const match = linkHeader.match(/&page=(\d+)>; rel="last"/);
       const count = match ? parseInt(match[1]) : 1;
       totalCommits += count;
     } else {
-      totalCommits += commits.data.length;
+      const commits = await commitsResponse.json();
+      totalCommits += commits.length;
     }
   }
 
@@ -43,20 +44,25 @@ async function getCommitCount() {
 }
 
 (async () => {
-  const total = await getCommitCount();
+  try {
+    const total = await getCommitCount();
 
-  const badge = `<img src="https://img.shields.io/badge/COMMITS-${total}-blue?style=flat-square&color=blue" height="25"/>`;
+    const badge = `<img src="https://img.shields.io/badge/COMMITS-${total}-blue?style=flat-square&color=blue" height="25"/>`;
 
-  const readme = fs.readFileSync("README.md", "utf8");
-  const updated = readme.replace(
-    /<img src="https:\/\/img\.shields\.io\/badge\/COMMITS-.*?" height="25"\/>/,
-    badge
-  );
+    const readme = fs.readFileSync("README.md", "utf8");
+    const updated = readme.replace(
+      /<img src="https:\/\/img\.shields\.io\/badge\/COMMITS-.*?" height="25"\/>/,
+      badge
+    );
 
-  if (readme !== updated) {
-    fs.writeFileSync("README.md", updated);
-    console.log(`README updated with ${total} commits`);
-  } else {
-    console.log("No change in commit count. Skipping write.");
+    if (readme !== updated) {
+      fs.writeFileSync("README.md", updated);
+      console.log(`README updated with ${total} commits`);
+    } else {
+      console.log("No change in commit count. Skipping write.");
+    }
+  } catch (error) {
+    console.error("Error updating commit count:", error);
+    process.exit(1);
   }
 })();
