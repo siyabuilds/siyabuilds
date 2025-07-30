@@ -38,6 +38,7 @@ I believe in clean architecture, thoughtful UI/UX, and constant iteration. Alway
 ## 💬 Quote of the Day
 
 <!--START_QUOTE-->
+> *"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life."* - Roy T. Bennett
 <!--END_QUOTE-->
 
 ---
