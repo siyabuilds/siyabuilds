@@ -38,7 +38,7 @@ I believe in clean architecture, thoughtful UI/UX, and constant iteration. Alway
 ## 💬 Quote of the Day
 
 <!--START_QUOTE-->
-> *"Change is not a four letter word...but often your reaction to it is!"* - Jeffrey Gitomer
+> *"Happiness is only real when shared."* - Christopher McCandless
 <!--END_QUOTE-->
 
 ---
