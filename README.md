@@ -38,7 +38,7 @@ I believe in clean architecture, thoughtful UI/UX, and constant iteration. Alway
 ## 💬 Quote of the Day
 
 <!--START_QUOTE-->
-> *"Happiness is only real when shared."* - Christopher McCandless
+> *"Work harder on yourself than you do on your job."* - Jim Rohn
 <!--END_QUOTE-->
 
 ---
