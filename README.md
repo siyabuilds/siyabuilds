@@ -38,7 +38,7 @@ I believe in clean architecture, thoughtful UI/UX, and constant iteration. Alway
 ## 💬 Quote of the Day
 
 <!--START_QUOTE-->
-> *"Work harder on yourself than you do on your job."* - Jim Rohn
+> *"Each day your life grows a day shorter. Make every move count."* - Ming-Dao Deng
 <!--END_QUOTE-->
 
 ---
