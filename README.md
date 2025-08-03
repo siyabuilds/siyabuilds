@@ -38,7 +38,7 @@ I believe in clean architecture, thoughtful UI/UX, and constant iteration. Alway
 ## 💬 Quote of the Day
 
 <!--START_QUOTE-->
-> *"Each day your life grows a day shorter. Make every move count."* - Ming-Dao Deng
+> *"Never waste a minute of your precious life thinking about people you don't like."* - Celestine Chua
 <!--END_QUOTE-->
 
 ---
