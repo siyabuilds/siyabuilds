@@ -38,7 +38,7 @@ I believe in clean architecture, thoughtful UI/UX, and constant iteration. Alway
 ## 💬 Quote of the Day
 
 <!--START_QUOTE-->
-> *"Never waste a minute of your precious life thinking about people you don't like."* - Celestine Chua
+> *"Learn from the mistakes of others. You can't live long enough to make them all yourself."* - Eleanor Roosevelt
 <!--END_QUOTE-->
 
 ---
