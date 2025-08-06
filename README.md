@@ -38,7 +38,7 @@ I believe in clean architecture, thoughtful UI/UX, and constant iteration. Alway
 ## 💬 Quote of the Day
 
 <!--START_QUOTE-->
-> *"We are all in the gutter, but some of us are looking at the stars. "* - Oscar Wilde
+> *"The biggest adventure is what lies ahead."* - J.R.R. Tolkien
 <!--END_QUOTE-->
 
 ---
