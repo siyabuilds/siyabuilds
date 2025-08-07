@@ -38,7 +38,7 @@ I believe in clean architecture, thoughtful UI/UX, and constant iteration. Alway
 ## 💬 Quote of the Day
 
 <!--START_QUOTE-->
-> *"The biggest adventure is what lies ahead."* - J.R.R. Tolkien
+> *"Courage Is a Love Affair with the Unknown"* - Osho
 <!--END_QUOTE-->
 
 ---
