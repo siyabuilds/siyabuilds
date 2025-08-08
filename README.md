@@ -38,7 +38,7 @@ I believe in clean architecture, thoughtful UI/UX, and constant iteration. Alway
 ## 💬 Quote of the Day
 
 <!--START_QUOTE-->
-> *"Courage Is a Love Affair with the Unknown"* - Osho
+> *"All our dreams can come true, if we have the courage to pursue them."* - Walt Disney
 <!--END_QUOTE-->
 
 ---
