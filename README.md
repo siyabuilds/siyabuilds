@@ -38,7 +38,7 @@ I believe in clean architecture, thoughtful UI/UX, and constant iteration. Alway
 ## 💬 Quote of the Day
 
 <!--START_QUOTE-->
-> *"It is during our darkest moments that we must focus to see the light."* - Aristotle
+> *"If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere."* - Zig Ziglar
 <!--END_QUOTE-->
 
 ---
