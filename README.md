@@ -38,7 +38,7 @@ I believe in clean architecture, thoughtful UI/UX, and constant iteration. Alway
 ## 💬 Quote of the Day
 
 <!--START_QUOTE-->
-> *"Surround yourself with only people who are going to lift you higher. "* - Oprah Winfrey
+> *"Longevity is a fleeting moment that lasts forever."* - Vidal Sassoon
 <!--END_QUOTE-->
 
 ---
