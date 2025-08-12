@@ -38,7 +38,7 @@ I believe in clean architecture, thoughtful UI/UX, and constant iteration. Alway
 ## 💬 Quote of the Day
 
 <!--START_QUOTE-->
-> *"Longevity is a fleeting moment that lasts forever."* - Vidal Sassoon
+> *"Even if you're sure you can win, be careful that you can live with what you lose."* - Gary Keller
 <!--END_QUOTE-->
 
 ---
