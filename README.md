@@ -38,7 +38,7 @@ I believe in clean architecture, thoughtful UI/UX, and constant iteration. Alway
 ## 💬 Quote of the Day
 
 <!--START_QUOTE-->
-> *"When you stop questioning, you stop learning."* - Lolly Daskal
+> *"The privilege of a lifetime is to become who you truly are."* - Carl Jung
 <!--END_QUOTE-->
 
 ---
