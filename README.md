@@ -38,7 +38,7 @@ I believe in clean architecture, thoughtful UI/UX, and constant iteration. Alway
 ## 💬 Quote of the Day
 
 <!--START_QUOTE-->
-> *"Even if you're sure you can win, be careful that you can live with what you lose."* - Gary Keller
+> *"When you stop questioning, you stop learning."* - Lolly Daskal
 <!--END_QUOTE-->
 
 ---
