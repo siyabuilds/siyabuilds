@@ -38,7 +38,7 @@ I believe in clean architecture, thoughtful UI/UX, and constant iteration. Alway
 ## 💬 Quote of the Day
 
 <!--START_QUOTE-->
-> *"The privilege of a lifetime is to become who you truly are."* - Carl Jung
+> *"Pursue what catches your heart, not what catches your eyes."* - Roy T. Bennett
 <!--END_QUOTE-->
 
 ---
