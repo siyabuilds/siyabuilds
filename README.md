@@ -38,7 +38,7 @@ I believe in clean architecture, thoughtful UI/UX, and constant iteration. Alway
 ## 💬 Quote of the Day
 
 <!--START_QUOTE-->
-> *"Pursue what catches your heart, not what catches your eyes."* - Roy T. Bennett
+> *"If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month."* - Theodore Roosevelt
 <!--END_QUOTE-->
 
 ---
