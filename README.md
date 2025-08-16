@@ -38,7 +38,7 @@ I believe in clean architecture, thoughtful UI/UX, and constant iteration. Alway
 ## 💬 Quote of the Day
 
 <!--START_QUOTE-->
-> *"If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month."* - Theodore Roosevelt
+> *"The purpose of life is to contribute in some way to making things better."* - Robert F. Kennedy
 <!--END_QUOTE-->
 
 ---
