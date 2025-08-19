@@ -1,7 +1,7 @@
 <h1>
   Hey, I'm Siyabonga 👋
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/COMMITS-634-blue?style=flat-square&color=blue" height="25"/>
+  <img src="https://img.shields.io/badge/COMMITS-637-blue?style=flat-square&color=blue" height="25"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Followers-113-green?style=flat-square" height="25"/>
   &nbsp;&nbsp;
