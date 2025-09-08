@@ -31,7 +31,7 @@
 ## 🎮 Featured Projects
 
 <!-- Suggest replacing these with your best repos! -->
-- [Carbon Footprint Tracker](https://github.com/siyabuilds/carbon-footprint-tracker) — Vite-powered, Express & MongoDB backend; track your eco-impact with a snazzy UI.🌱🚀
+- [Carbon Footprint Tracker](https://github.com/siyabuilds/carbon-footprint-logger) — Vite-powered, Express & MongoDB backend; track your eco-impact with a snazzy UI.🌱🚀
 - [Next.js Portfolio](https://github.com/siyabuilds/nextjs-portfolio) — Interactive portfolio with a cool terminal vibe, live code blocks, and slick animations. Modern, playful, and inspired by get.tech!
 - [Word Unscrambler](https://github.com/siyabuilds/word-unscrambler) — Next.js-powered app that cracks jumbled words in seconds! Fast, and fun magic for puzzle lovers.
 
