@@ -3,7 +3,7 @@
 Full-Stack Developer in Training | React • Next.js • Node.js • MongoDB • Linux 🐧  
 Coffee-fueled ☕ | South Africa 🇿🇦  
 
-[![Siyabonga's GitHub stats](https://github-readme-stats.vercel.app/api?username=siyabuilds&count_private=true&show_icons=true&theme=vue)](https://github.com/siyabuilds)
+[![Siyabonga's GitHub stats](https://github-readme-stats.vercel.app/api?username=siyabuilds&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/siyabuilds)
 
 ### 🧰 Tech Stack
 
