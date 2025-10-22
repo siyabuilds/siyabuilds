@@ -1,18 +1,25 @@
-### Hi there 👋
+## 👋 Welcome!
 
-Full-Stack Developer in Training | React • Next.js • Node.js • MongoDB • Linux 🐧  
-Coffee-fueled ☕ | South Africa 🇿🇦  
+**Full-Stack Developer in Training** • South Africa 🇿🇦  
+_Crafting elegant solutions with React, Node.js & MongoDB_  
+Coffee-fueled ☕ • Linux enthusiast 🐧
 
 [![Siyabonga's GitHub stats](https://github-readme-stats.vercel.app/api?username=siyabuilds&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/siyabuilds)
 
-### 🧰 Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,linux" alt="Tech Stack Icons" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,linux,vite" alt="Tech Stack" height="40"/>
 </p>
 
-### 🚀 Featured Projects
+---
 
-- [**Carbon Footprint Tracker**](https://github.com/siyabuilds/carbon-footprint-logger) — Track your eco-impact with Vite, Express & MongoDB 🌱  
-- [**Next.js Portfolio**](https://github.com/siyabuilds/nextjs-portfolio) — Interactive portfolio showcasing modern UI 🚀  
-- [**Word Unscrambler**](https://github.com/siyabuilds/word-unscrambler) — Fun word unscrambler app built with Next.js 🎮  
+## ⚡ Featured Projects
+
+| Project                                                                               | Description                                              |
+| ------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| [**Carbon Footprint Tracker**](https://github.com/siyabuilds/carbon-footprint-logger) | Track your eco-impact · Vite • Express • MongoDB 🌱      |
+| [**Next.js Portfolio**](https://github.com/siyabuilds/nextjs-portfolio)               | Modern interactive portfolio · Modern UI • Responsive 🎨 |
+| [**Word Unscrambler**](https://github.com/siyabuilds/word-unscrambler)                | Playful word game · Next.js • Interactive 🎮             |
