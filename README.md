@@ -21,5 +21,5 @@ Coffee-fueled ☕ • Linux enthusiast 🐧
 | Project                                                                               | Description                                              |
 | ------------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | [**Carbon Footprint Tracker**](https://github.com/siyabuilds/carbon-footprint-logger) | Track your eco-impact · Vite • Express • MongoDB 🌱      |
-| [**Next.js Portfolio**](https://github.com/siyabuilds/nextjs-portfolio)               | Modern interactive portfolio · Modern UI • Responsive 🎨 |
+| [**AI Powered Devblog**](https://github.com/siyabuilds/ai_powered_devblog)               | AI Powered Blog Insights · Astro • OpenAI 🤖 |
 | [**Word Unscrambler**](https://github.com/siyabuilds/word-unscrambler)                | Playful word game · Next.js • Interactive 🎮             |
