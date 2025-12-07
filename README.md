@@ -4,7 +4,7 @@
 _Crafting elegant solutions with React, Node.js & MongoDB_  
 Coffee-fueled ☕ • Linux enthusiast 🐧
 
-[![Siyabonga's GitHub stats](https://github-readme-stats.vercel.app/api?username=siyabuilds&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/siyabuilds)
+[![Siyabonga's GitHub stats](https://github-readme-streak-stats-lyart-nine.vercel.app?user=siyabuilds&theme=monokai)](https://github.com/siyabuilds)
 
 ---
 
@@ -18,8 +18,8 @@ Coffee-fueled ☕ • Linux enthusiast 🐧
 
 ## ⚡ Featured Projects
 
-| Project                                                                               | Description                                              |
-| ------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| [**Carbon Footprint Tracker**](https://github.com/siyabuilds/carbon-footprint-logger) | Track your eco-impact · Vite • Express • MongoDB 🌱      |
-| [**AI Powered Devblog**](https://github.com/siyabuilds/ai_powered_devblog)               | AI Powered Blog Insights · Astro • OpenAI 🤖 |
-| [**Word Unscrambler**](https://github.com/siyabuilds/word-unscrambler)                | Playful word game · Next.js • Interactive 🎮             |
+| Project                                                                               | Description                                         |
+| ------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| [**Carbon Footprint Tracker**](https://github.com/siyabuilds/carbon-footprint-logger) | Track your eco-impact · Vite • Express • MongoDB 🌱 |
+| [**AI Powered Devblog**](https://github.com/siyabuilds/ai_powered_devblog)            | AI Powered Blog Insights · Astro • OpenAI 🤖        |
+| [**Word Unscrambler**](https://github.com/siyabuilds/word-unscrambler)                | Playful word game · Next.js • Interactive 🎮        |
