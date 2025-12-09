@@ -22,4 +22,4 @@ Coffee-fueled ☕ • Linux enthusiast 🐧
 | ------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | [**Carbon Footprint Tracker**](https://github.com/siyabuilds/carbon-footprint-logger) | Track your eco-impact · Vite • Express • MongoDB 🌱 |
 | [**AI Powered Devblog**](https://github.com/siyabuilds/ai_powered_devblog)            | AI Powered Blog Insights · Astro • OpenAI 🤖        |
-| [**Word Unscrambler**](https://github.com/siyabuilds/word-unscrambler)                | Playful word game · Next.js • Interactive 🎮        |
+| [**Shukuma Fitness**](https://github.com/siyabuilds/shukuma-web)                      | Card Deck Exercises Fitness App · Next.js • Express 🎮        |
