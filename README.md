@@ -4,7 +4,7 @@
 _Crafting elegant solutions with React, Node.js & MongoDB_  
 Coffee-fueled ☕ • Linux enthusiast 🐧
 
-[![Siyabonga's GitHub stats](https://github-readme-stats-with-rank.vercel.app/api?username=siyabuilds&theme=onedark)](https://github.com/siyabuilds)
+[![Siyabonga's GitHub stats](https://github-readme-stats-with-rank.vercel.app/api?username=siyabuilds&theme=react)](https://github.com/siyabuilds)
 
 ---
 
