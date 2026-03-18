@@ -1,8 +1,18 @@
-# Siyabonga Lukhele
+# Samson Lukhele
 
-Full Stack Developer focused on building clean, useful products with solid engineering fundamentals.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer at work" width="100%" />
+</p>
 
-I am currently growing through Umuzi's rotational internship model, where I contribute across teams and sharpen practical skills in frontend, backend, and deployment workflows.
+Full Stack Developer building modern products that feel smooth, useful, and production-ready.
+
+I am currently sharpening my craft through Umuzi's rotational internship model, where I contribute across teams and work from feature idea to shipped experience.
+
+## Snapshot
+
+- Building across frontend, backend, and deployment workflows.
+- Focused on clean architecture, practical UX, and maintainable code.
+- Interested in AI-assisted products, developer tooling, and scalable web platforms.
 
 <table>
   <tr>
@@ -19,37 +29,27 @@ I am currently growing through Umuzi's rotational internship model, where I cont
   </tr>
 </table>
 
-## What I Build
+## Core Stack
 
-- Modern web apps with strong UX and maintainable architecture.
-- Full-stack features from API design to polished interfaces.
-- Projects that balance performance, clarity, and real-world usefulness.
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb,postgresql,linux,vite,tailwind" alt="Tech stack" height="40" />
+</p>
+
+## Project Highlights
+
+| Project | What It Does | Stack |
+| --- | --- | --- |
+| [Carbon Tracker](https://github.com/siyabuilds/carbon-footprint-logger) | Full-stack emissions tracker with data visualization and persistent user data. | Vite, Express, MongoDB, Chart.js |
+| [Shukuma](https://github.com/siyabuilds/shukuma) | Fitness platform for routines and progress tracking with a modern web UX. | Next.js, Tailwind, Express, MongoDB |
+| [ChatDuo](https://github.com/siyabuilds/chatduo) | Anonymous messaging app focused on lightweight interactions and clean UI flows. | Next.js, TypeScript, React |
+| [Zazu - AI Knowledge Assistant](https://github.com/umuzi-org/umuzi-single-source-of-truth) | RAG-powered internal assistant with semantic search and Slack Q&A integration. | Next.js, TypeScript, PostgreSQL, Gemini AI, Slack API |
+| [AI Powered Dev Blog](https://github.com/siyabuilds/ai_powered_devblog) | Developer blog platform with AI-assisted content workflows and automation. | Astro, OpenAI, GitHub Actions |
 
 ## Current Focus
 
-- Advanced JavaScript and TypeScript patterns.
-- SQL data modeling and authentication flows.
-- Cloud deployment and production readiness.
-
-## Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb,postgresql,linux,vite,tailwind" alt="Tech stack" height="40"/>
-</p>
-
-## Selected Projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [Carbon Footprint Tracker](https://github.com/siyabuilds/carbon-footprint-logger) | Full-stack app to log and analyze carbon impact with actionable insights. | Vite, Express, MongoDB |
-| [AI Powered Devblog](https://github.com/siyabuilds/ai_powered_devblog) | Developer blog experience enhanced with AI-assisted content workflows. | Astro, OpenAI |
-| [Shukuma Fitness](https://github.com/siyabuilds/shukuma-web) | Interactive fitness platform with a card-based experience and clean UI. | Next.js, Express |
-
-## Working Style
-
-- Build fast, then refine with intention.
-- Favor readable code and clear naming.
-- Treat documentation as part of the product.
+- Advanced TypeScript patterns and API design.
+- PostgreSQL modeling and performant query patterns.
+- Better testing discipline and production reliability.
 
 ## Connect
 
