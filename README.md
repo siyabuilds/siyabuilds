@@ -4,22 +4,22 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHN4NnAzeDZ6MGlmYTZidzc3dGNrd2JxbDJpMWk4bTZydHB6ZTd1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="Developer at work" />
 </p>
 
-Full Stack Developer building modern products that feel smooth, useful, and production-ready.
+Full Stack Developer exploring ideas through software and building useful tools with teams who care about craft.
 
-I am currently sharpening my craft through Umuzi's rotational internship model, where I contribute across teams and work from feature idea to shipped experience.
+I enjoy solving messy problems, shipping practical solutions, and learning in the open.
 
-## 30-Second View
+## Overview
 
-- Full Stack Developer with hands-on delivery across frontend, backend, and deployment.
-- Current track: Umuzi rotational internship, shipping practical product features across teams.
-- Best with: JavaScript/TypeScript, React/Next.js, Node.js/Express, MongoDB/PostgreSQL.
-- Strong preference for clean architecture, useful UX, and production-minded execution.
+- Role: Full Stack Developer
+- Location: Johannesburg, South Africa
+- Current track: Umuzi rotational internship
+- Focus: readable architecture, smooth UX behavior, and collaborative delivery
 
 ## Snapshot
 
-- Building across frontend, backend, and deployment workflows.
-- Focused on clean architecture, practical UX, and maintainable code.
-- Interested in AI-assisted products, developer tooling, and scalable web platforms.
+- I build across frontend, backend, and deployment workflows.
+- I like short feedback loops: ship, learn, iterate.
+- I am interested in AI-assisted products, dev tooling, and scalable web platforms.
 
 <table>
   <tr>
@@ -42,17 +42,17 @@ I am currently sharpening my craft through Umuzi's rotational internship model, 
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb,postgresql,linux,vite,tailwind" alt="Tech stack" height="40" />
 </p>
 
-## Project Highlights (Impact-First)
+## Selected Work
 
-| Project | Problem | My Role | Outcome |
+| Project | Summary | Outcome | Stack |
 | --- | --- | --- | --- |
-| [Carbon Tracker](https://github.com/siyabuilds/carbon-footprint-logger) | Carbon data is hard to track and interpret in one place. | Built core full-stack flow for logging, visualizing, and persisting emissions data. | Delivered a live tracker with clear visual feedback and practical user insights. |
-| [Shukuma](https://github.com/siyabuilds/shukuma) | Fitness users need a simple workflow for routines and progress. | Implemented modern web UX and full-stack feature integration. | Shipped a live fitness experience focused on clarity and ease of use. |
-| [ChatDuo](https://github.com/siyabuilds/chatduo) | Anonymous chat tools are often cluttered or friction-heavy. | Built a lightweight, minimal interaction flow in Next.js + TypeScript. | Launched a cleaner anonymous messaging experience with fast interactions. |
-| [Zazu - AI Knowledge Assistant](https://github.com/umuzi-org/umuzi-single-source-of-truth) | Internal knowledge is difficult to query quickly across teams. | Contributed to a RAG-based assistant with semantic search and Slack integration. | Enabled faster, more natural internal Q&A and knowledge retrieval. |
-| [AI Powered Dev Blog](https://github.com/siyabuilds/ai_powered_devblog) | Content pipelines are slow and inconsistent for technical blogs. | Built AI-assisted content workflows and structured publishing paths. | Improved content throughput while keeping a developer-focused writing flow. |
+| [Shukuma](https://github.com/siyabuilds/shukuma) | Fitness platform with routines, progress tracking, and social accountability loops. | Built as a full-stack learning project with clean dashboards and practical API wiring. | Next.js, Tailwind CSS, Express, MongoDB |
+| [Zazu - AI Knowledge Assistant](https://github.com/umuzi-org/umuzi-single-source-of-truth) | Internal knowledge assistant using retrieval flows and semantic search. | Collaborated with a team to make internal information easier to find. | Next.js, TypeScript, PostgreSQL, Gemini AI, Slack API |
+| [Carbon Tracker](https://github.com/siyabuilds/carbon-footprint-logger) | Full-stack app for emissions tracking and simple visual reporting. | Explored data modeling, auth flows, and clean reporting UX end to end. | Vite, Express, MongoDB, Chart.js |
+| [ChatDuo](https://github.com/siyabuilds/chatduo) | Anonymous messaging concept focused on privacy and low-friction interaction. | Tested real-time product ideas in a compact social app prototype. | Next.js, TypeScript, React |
+| [AI Powered Dev Blog](https://github.com/siyabuilds/ai_powered_devblog) | AI-assisted developer blog workflow and publishing pipeline. | Improved content throughput while keeping a technical writing flow. | Astro, OpenAI, GitHub Actions |
 
-### Stack + Links
+### Live Links
 
 - Carbon Tracker: Vite, Express, MongoDB, Chart.js | Demo: [carbontrackr.vercel.app](https://carbontrackr.vercel.app)
 - Shukuma: Next.js, Tailwind, Express, MongoDB | Demo: [shukuma.samson.codes](https://shukuma.samson.codes)
@@ -62,14 +62,16 @@ I am currently sharpening my craft through Umuzi's rotational internship model, 
 
 ## Current Focus
 
-- Advanced TypeScript patterns and API design.
-- PostgreSQL modeling and performant query patterns.
-- Better testing discipline and production reliability.
+- Advanced TypeScript patterns and API design
+- PostgreSQL modeling and performant query patterns
+- Better testing discipline and production reliability
+- Team-first collaboration and maintainable delivery
 
 ## Connect
 
 - Portfolio: [samsonlukhele.me](https://samsonlukhele.me)
 - GitHub: [@siyabuilds](https://github.com/siyabuilds)
 - LinkedIn: [Siyabonga Lukhele](https://www.linkedin.com/in/siyabuilds)
+- WhatsApp: [+27 66 541 7071](https://wa.me/27665417071)
 
 ---
