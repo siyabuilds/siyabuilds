@@ -23,9 +23,7 @@ A few days later there's usually a Next.js app, an API integration, a database, 
 
 Currently at **Umuzi**, I contribute to internal products and cross-functional work across AI tools, workflow automation, frontend systems, documentation, and delivery support.
 
----
-
-## What I Like Building
+## What I Build
 
 - AI-powered applications
 - Retrieval and semantic search systems
@@ -33,9 +31,6 @@ Currently at **Umuzi**, I contribute to internal products and cross-functional w
 - Full-stack TypeScript platforms
 - OpenAI-powered workflows
 - Linux-friendly development environments
-- Experiments that probably shouldn't work, but somehow do
-
----
 
 ## Tech I Reach For
 
@@ -45,76 +40,59 @@ Currently at **Umuzi**, I contribute to internal products and cross-functional w
 
 ### AI & Data
 
-- OpenAI APIs
-- Structured Outputs
-- Zod validation
-- Retrieval systems
-- Semantic search
-- Google AI embeddings
-- Prompt engineering
-- AI recommendation workflows
+`OpenAI APIs` · `Structured Outputs` · `Zod` · `Retrieval` · `Semantic Search` · `Google AI Embeddings` · `Prompt Engineering`
 
 ---
 
-## Featured Projects
+## Featured Work
 
-### 🧠 Word Generator
-Predictable AI output using structured outputs, Zod validation, and typed contracts.
+### 📊 GitHub Wrapped — Flagship Project
+A shareable, AI-powered year-in-review for GitHub developers. It aggregates yearly repository activity, caches results, and adds optional AI-generated insights such as predictions, advice, a developer story, and a gentle roast.
 
-**Stack:** `Next.js` · `TypeScript` · `OpenAI` · `MongoDB` · `Zod`
+**Stack:** `Next.js` · `TypeScript` · `GitHub API` · `OpenAI` · `MongoDB`
 
-🔗 https://wordgen.samson.codes
+🔗 https://wrapped.samson.codes  
+📦 https://github.com/siyabuilds/wrapped
 
 ### 🎯 AI Dev Project Picker
 Matches GitHub projects to job descriptions so portfolio choices are less guesswork and more signal.
 
 **Stack:** `Next.js` · `OpenAI` · `GitHub REST API`
 
-🔗 https://devprojectpicker.vercel.app
+🔗 https://devprojectpicker.vercel.app  
+📦 https://github.com/siyabuilds/ai-devprojectpicker
 
-### 📊 GitHub Wrapped
-A Spotify-Wrapped-style view of repository activity and contribution patterns.
+### 🧠 Word Generator
+A small AI reference project focused on predictable model output using structured outputs, runtime validation, caching, and failure-tolerant integration patterns.
 
-**Stack:** `Next.js` · `TypeScript` · `GitHub API` · `OpenAI` · `MongoDB`
+**Stack:** `Next.js` · `TypeScript` · `OpenAI` · `MongoDB` · `Zod`
 
-🔗 https://wrapped.samson.codes
+🔗 https://wordgen.samson.codes  
+📦 https://github.com/siyabuilds/word-generator
 
 ### 💪 Shukuma
-A fitness companion built around consistency, accountability, and progress tracking.
+A fitness companion built around consistency, accountability, and progress tracking, with a separate API service behind the client.
 
-**Stack:** `Next.js` · `TypeScript` · `Express` · `Tailwind CSS`
+**Stack:** `Next.js` · `TypeScript` · `Express` · `MongoDB` · `Tailwind CSS`
 
-🔗 https://shukuma.samson.codes
+🔗 https://shukuma.samson.codes  
+📦 https://github.com/siyabuilds/shukuma
 
 ---
 
 ## Current Mission
 
-Building AI-powered tools that solve real problems while becoming the kind of engineer who can take an idea from conversation to production.
-
----
+Building practical AI-powered tools and becoming the kind of engineer who can take an idea from conversation to production.
 
 ## Currently Obsessing Over
 
-- Retrieval systems
-- Useful AI agents
-- PostgreSQL
-- Type-safe APIs
-- System design
-- Modern Next.js architecture
-- Building fast without creating future nightmares
+`Retrieval systems` · `AI agents` · `PostgreSQL` · `Type-safe APIs` · `System design` · `Modern Next.js architecture`
 
----
+## A Bit About How I Work
 
-## Fun Facts
-
-- I use Linux as my daily driver and occasionally break things for educational purposes.
-- I learn best by building first and reading the docs after I have already made mistakes.
-- I go down rabbit holes about browser internals, databases, and how things actually work.
-- Half my projects begin with "this is probably a bad idea."
-- The other half begin with "surely nobody has tried this before."
-
----
+- I learn fastest by building, testing, breaking, and fixing.
+- I like short feedback loops and practical engineering decisions.
+- I regularly go down rabbit holes about browsers, databases, Linux, and how things actually work.
 
 ## Find Me Around The Internet
 
